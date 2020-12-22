@@ -1,0 +1,8 @@
+
+.anival_slider form{padding: 10px 10px 10px 0;display: block;}
+.anival_slider .form_row{width: 100%;float: left;}
+.anival_slider .select, .anival_slider input['text']{width: 100%;}
+#anival_slider select, #anival_slider input[type=text], #anival_slider input[type=number]{width: 100%;max-width: 100%;}
+.anival_slider table .left, .anival_slider table .right{width: 50%;float: left;}
+.anival_slider .form-table td{vertical-align: top;}
+#anival_slider input[type=radio]{margin-top:0;margin-left: 5px;margin-right: 20px;}
